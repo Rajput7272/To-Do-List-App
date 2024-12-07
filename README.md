@@ -20,4 +20,3 @@ A simple and responsive To-Do List web application built using **HTML**, **CSS**
 4. Click the "Add Task" button to add the task to the list.
 5. Use the "Delete" button next to each task to remove it.
 
-## Folder Structure
